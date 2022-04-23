@@ -382,7 +382,7 @@ class _AddressWidgetState extends State<AddressWidget> {
                       showLocation: true,
                       showCompass: false,
                       showMapToolbar: false,
-                      showTraffic: false,
+                      showTraffic: true,
                       centerMapOnMarkerTap: true,
                     ),
                   ),
